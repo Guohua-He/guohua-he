@@ -1,4 +1,4 @@
 ---
 title: my first blog post
-date: 13-10-2024
+date: 2024-10-13
 ---
