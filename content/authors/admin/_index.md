@@ -53,7 +53,7 @@ education:
   - area: PhD Economics
     institution: University of Essex
     date_start: 2020-10-01
-    date_end: In progress
+    date_end: 2025-02-01
     summary: |
       Thesis on _Motherhood Penalties, Referral Networks, and Labor Market Outcomes_. Supervised by [Dr Ran Gu](https://www.essex.ac.uk/people/GURAN15605/Ran-Gu). 
     button:
