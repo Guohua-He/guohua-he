@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'gh18142@essex.ac.uk'
+    url: 'mailto:gh18142@essex.ac.uk'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/guohua_he
@@ -45,10 +45,8 @@ profiles:
     url: https://orcid.org/0009-0009-7878-9439
 
 interests:
-  - Labour Economics
-  - Family Economics
+  - Labour and family Economics
   - Public policy Economics
-  - Gender Economics
   - Network Economics
 
 education:
@@ -57,7 +55,7 @@ education:
     date_start: 2020-10-01
     date_end: In progress
     summary: |
-      Thesis on _Motherhood Penalties, Referral Networks, and Labor Market Outcomes_. Supervised by [Dr Ran Gu](ran.gu@essex.ac.uk). 
+      Thesis on _Motherhood Penalties, Referral Networks, and Labor Market Outcomes_. Supervised by [Dr Ran Gu](https://www.essex.ac.uk/people/GURAN15605/Ran-Gu). 
     button:
       text: 'How Does Fertility Relaxation Policy Affect the Anticipation of Motherhood Wage Penalty'
       url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4778342'
@@ -65,7 +63,24 @@ education:
     institution: University of Essex
     date_start: 2019-10-01
     date_end: 2020-09-30
+    summary: |
+      GPA: 3.8/4.0
 
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Assistant Lecturer
     company_name: University of Essex
@@ -76,7 +91,7 @@ work:
     summary: |2-
       Responsibilities for Methods of Economic Analysis and Applied Economics and Policy:
       - Delivering lectures and tutorials to students, facilitating their learning in economics-related subjects.
-      - Student Support: Providing academic guidance, mentoring, and timely feedback to students
+      - Student Support: Providing academic guidance, mentoring, and timely feedback to students.
       - Curriculum Assistance: Assisting in curriculum development and course material preparation.
   - position: Research assistant
     company_name: University of Essex
@@ -100,11 +115,11 @@ skills:
         icon: code-bracket
       - name: R
         description: ''
-        percent: 95
+        percent: 80
         icon: chart-bar
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -112,7 +127,7 @@ skills:
     items:
       - name: Travel
         description: ''
-        percent: 80
+        percent: 90
         icon: person-simple-walk
       - name: Reading
         description: ''
@@ -140,14 +155,15 @@ awards:
     url: https://nidi.nl/en/
     date: '2024-06-05'
     awarder: COORDINATE under the European Union Horizon Grant
-    icon: COORDINATE
+    icon: coursera
     summary: |
       This project examines how flexible working arrangements, like telecommuting and flextime, impact parental childcare and child well-being across EU countries. Using Generations and Gender Survey (GGS) data, I apply econometric models to assess how labor policies influence the distribution of shared childcare responsibilities, informing policy on work-life balance.
-  - title: Department of Economics Prize for Best Dissertation. 
+  - title: Department of Economics Prize for Best Dissertation
     url: https://www.essex.ac.uk
     date: '2019-12-01'
     awarder: University of Essex
-    icon: University of Essex
+    icon: edx
+---
 
 ## About Me
 
