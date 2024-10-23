@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "How Does Fertility Relaxation Policy Affect the  Motherhood Wage Penalty"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Guohua He and Jingyi Li
+date: "2024-10-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +17,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper examines the effect of fertility relaxation on the anticipatory motherhood wage penalty, utilizing the China’s two-child policy as quasi-experiment. Our findings reveal heterogeneity in the policy’s effect. For one-child mothers, the policy change signals employers to update their beliefs about potential for future fertility, leading to a significant 9% increase in the wage penalty for them post-policy, compared to the non-mothers. Conversely, mothers who previously violated the policy by having a second child experienced an 8% decrease in their wage penalty as their illegal status was lifted post-policy. These outcomes are primarily attributable to changes in job discrimination rather than shifts in human capital. A further mechanism analysis suggests that the increase in the anticipatory wage penalty for one-child mothers is driven by statistical discrimination, whereas the decrease for two-child mothers is linked to taste-based discrimination post-policy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Motherhood wage penalty; Statistical discrimination; Taste-based discrimination; Fertility policy reform
 
 tags:
-- Large Language Models
+- Labour economics
 
 featured: true
 
